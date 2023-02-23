@@ -39,6 +39,7 @@ img#logo{
    grid-column: span 3;
    width: 100%;
 }
+/* Horizontal Navigation List Styles */
 nav.horizontal, footer{
    grid-column: span 4;
 }
@@ -50,17 +51,16 @@ nav.horizontal li{
    width: 12.5%;
    float: left;
 }
-
-
-
-
-/* Horizontal Navigation List Styles */
-
-
-
 /* Section Styles */
+section img{
+   width: 50%;
+   margin: 0 auto 0 auto;
 
-
+}
+section p{
+   width: 70%;
+   margin: 0 auto 0 auto;
+}
 
 
 /* Customer Comment Styles */
